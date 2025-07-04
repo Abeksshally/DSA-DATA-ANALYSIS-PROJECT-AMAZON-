@@ -1,2 +1,2 @@
 # DSA-DATA-ANALYSIS-PROJECT-AMAZON-
-This project analyzes an Amazon product dataset to uncover insights into product pricing, discounts, ratings, and customer reviews across various categories. By leveraging exploratory data analysis (EDA), the project aims to identify trends, correlations, and key factors influencing product performance on Amazon's platform.
+This project was completed as part of a data analytics bootcamp, focused on deriving insights from Amazon product and review data. Using Excel and data visualization techniques, I explored patterns and trends to help improve product performance, marketing strategies, and customer satisfaction.
