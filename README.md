@@ -82,6 +82,16 @@ The EDA process involves cleaning, transforming, and visualizing the dataset to 
   - Reviews highlight product durability and charging speed for cables (e.g., Wayona Nylon Braided Cable: "Charging is really fast, good product").
   - Common complaints include quality issues (e.g., Bajaj Majesty RX10 Heater: "front part melted after 2 months") and slow performance (e.g., Havells Ventil Air Fan: "fan speed is very slow").
   - Sentiment analysis (to be implemented) could quantify positive vs. negative feedback.
+ 
+#### Summary
+ 
+Categories with high average discounts often had lower-rated products.
+
+Electronics and Fashion had the highest number of products.
+
+A few products dominated review counts and potential revenue.
+
+Price drops don't always correlate with higher ratings.
 
 #### 3. Visualizations
 - **Discount Percentage by Category**: A bar chart showed **Electronics|Wearablet** and **Electronics|Headphone** with the highest average discounts, suggesting competitive pricing strategies.
@@ -99,4 +109,7 @@ The EDA process involves cleaning, transforming, and visualizing the dataset to 
 - Conditional Formatting
 
 - Dashboards & Charts
+
+#### Final Thoughts
+This project showcases the power of structured data analysis using Excel. By uncovering hidden patterns in customer reviews, we can better understand user preferences, boost product quality, and drive smarter business decisions.
 
