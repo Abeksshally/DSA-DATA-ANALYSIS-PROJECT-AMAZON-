@@ -56,7 +56,7 @@ The EDA process involves cleaning, transforming, and visualizing the dataset to 
   - **Product ID, Name, Category**: Identifiers and product classification.
   - **Discounted Price, Actual Price, Discount Percentage**: Pricing metrics.
   - **Rate, Rating Count**: Product quality and popularity indicators.
-  - **Price Range**: Categorized as Cheap (<500), Expensive (500–2,000), or Very Expensive (>2,000).
+  - **Price Range**: Categorized as Cheap (<₹500), Expensive (₹500–₹2,000), or Very Expensive (>₹2,000).
   - **Potential Revenue**: Calculated as `Actual Price * Rating Count`.
 - **Data Cleaning**:
   - Handled missing or truncated product names (e.g., "Wayona Nylon Br" in Cleaned sheet).
