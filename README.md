@@ -49,7 +49,7 @@ The EDA process involves cleaning, transforming, and visualizing the dataset to 
 - **Dataset Structure**: The dataset contains multiple sheets:
   - **Amazon Raw**: Raw data with 1,465 rows, including product details, customer reviews, and links (e.g., product IDs, names, categories, prices, ratings, and review content).
   - **Cleaned**: Processed data with calculated fields like Price Range, Potential Revenue, and Rating (>or<50%).
-  - **Detail1**: Filtered data for Electronics|Mobiles category.
+  - **Detail**: Filtered data for Electronics|Mobiles category.
   - **Pivot**: Aggregated metrics like average discount percentages and rating counts by category.
   - **Visuals**: Summary of product counts per category.
 - **Key Variables**:
@@ -119,7 +119,7 @@ This project showcases the power of structured data analysis using Excel. By unc
 
 Let’s connect! I’m open to feedback, collaboration, or opportunities in data analysis.
 
-GMAIL: abkcoaching@gmail.com
+EMAIL: abkcoaching@gmail.com
 
 PHONE: +2349064562159
 
