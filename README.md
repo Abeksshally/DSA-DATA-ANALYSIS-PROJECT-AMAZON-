@@ -113,3 +113,8 @@ Price drops don't always correlate with higher ratings.
 #### Final Thoughts
 This project showcases the power of structured data analysis using Excel. By uncovering hidden patterns in customer reviews, we can better understand user preferences, boost product quality, and drive smarter business decisions.
 
+Let’s connect! I’m open to feedback, collaboration, or opportunities in data analysis.
+
+GMAIL: abkcoaching@gmail.com
+PHONE: +2349064562159
+LinkedIn: https://www.linkedin.com/in/maryoguntoyinbo
