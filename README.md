@@ -1,6 +1,21 @@
 # DSA-DATA-ANALYSIS-PROJECT-AMAZON-
 This project was completed as part of a data analytics bootcamp, focused on deriving insights from Amazon product and review data. Using Excel and data visualization techniques, I explored patterns and trends to help improve product performance, marketing strategies, and customer satisfaction.
 
+## TABLE OF CONTENTS
+
+- [Project Title](#-dsa-data-analysis-project-amazon)
+- [Brief Description](#-brief-description)
+- [Project Overview](#-project-overview)
+  - [Objectives](#-objectives)
+- [Key Questions Answered](#-key-questions-answered)
+- [Exploratory Data Analysis (EDA)](#-exploratory-data-analysis-eda)
+  - [1. Data Overview](#1-data-overview)
+  - [2. Key Insights](#2-key-insights)
+  - [3. Visualizations](#3-visualizations)
+  - [4. Tools Used](#4-tools-used)
+- [Summary](#-summary)
+- [Let’s Connect](#-lets-connect)
+
 ### Project Overview
 The Amazon Product Analysis project focuses on understanding consumer preferences and market trends by analyzing a dataset containing 1,382 products across multiple categories, including Computers & Accessories, Electronics, and Home & Kitchen. The dataset is structured into multiple sheets, with key information on product pricing, discounts, ratings, and customer reviews. The primary objectives are:
 - **Analyze Pricing and Discounts**: Evaluate the relationship between actual prices, discounted prices, and discount percentages to understand pricing strategies.
@@ -116,5 +131,7 @@ This project showcases the power of structured data analysis using Excel. By unc
 Let’s connect! I’m open to feedback, collaboration, or opportunities in data analysis.
 
 GMAIL: abkcoaching@gmail.com
+
 PHONE: +2349064562159
+
 LinkedIn: https://www.linkedin.com/in/maryoguntoyinbo
