@@ -15,24 +15,12 @@ The Amazon Product Analysis project focuses on understanding consumer preference
 4. How can data-driven insights support business improvement?
 
 
-### Tools Used
-- Microsoft Excel
-
-- Pivot Tables
-
-- Calculated Fields
-
-- Conditional Formatting
-
-- Dashboards & Charts
-
-
 ### Exploratory Data Analysis (EDA)
 The EDA process involves cleaning, transforming, and visualizing the dataset to extract meaningful insights. Below is a summary of key findings and methodologies based on the provided dataset:
 
 #### 1. Data Overview
-- **Dataset Structure**: The dataset (`Amazon case.xlsx`) contains multiple sheets:
-  - **amazon**: Raw data with 1,465 rows, including product details, customer reviews, and links (e.g., product IDs, names, categories, prices, ratings, and review content).
+- **Dataset Structure**: The dataset contains multiple sheets:
+  - **Amazon Raw**: Raw data with 1,465 rows, including product details, customer reviews, and links (e.g., product IDs, names, categories, prices, ratings, and review content).
   - **Cleaned**: Processed data with calculated fields like Price Range, Potential Revenue, and Rating (>or<50%).
   - **Detail1**: Filtered data for Electronics|Mobiles category.
   - **Pivot**: Aggregated metrics like average discount percentages and rating counts by category.
@@ -77,5 +65,15 @@ The EDA process involves cleaning, transforming, and visualizing the dataset to 
 - **Rating Count vs. Price Range**: A scatter plot indicated that **Cheap** products (<500) often have higher rating counts, likely due to affordability.
 - **Correlation Analysis**: A heatmap revealed a moderate positive correlation (0.4–0.6) between discount percentage and rating count, suggesting discounts boost engagement.
 
+#### 4. Tools Used
 
+- Microsoft Excel
+
+- Pivot Tables
+
+- Calculated Fields
+
+- Conditional Formatting
+
+- Dashboards & Charts
 
