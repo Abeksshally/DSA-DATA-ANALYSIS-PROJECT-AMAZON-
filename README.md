@@ -3,18 +3,7 @@ This project was completed as part of a data analytics bootcamp, focused on deri
 
 ## TABLE OF CONTENTS
 
-- [Project Title](#-dsa-data-analysis-project-amazon)
-- [Brief Description](#-brief-description)
-- [Project Overview](#-project-overview)
-  - [Objectives](#-objectives)
-- [Key Questions Answered](#-key-questions-answered)
-- [Exploratory Data Analysis (EDA)](#-exploratory-data-analysis-eda)
-  - [1. Data Overview](#1-data-overview)
-  - [2. Key Insights](#2-key-insights)
-  - [3. Visualizations](#3-visualizations)
-  - [4. Tools Used](#4-tools-used)
-- [Summary](#-summary)
-- [Let’s Connect](#-lets-connect)
+
 
 ### Project Overview
 The Amazon Product Analysis project focuses on understanding consumer preferences and market trends by analyzing a dataset containing 1,382 products across multiple categories, including Computers & Accessories, Electronics, and Home & Kitchen. The dataset is structured into multiple sheets, with key information on product pricing, discounts, ratings, and customer reviews. The primary objectives are:
